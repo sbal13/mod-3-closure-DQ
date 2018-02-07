@@ -43,5 +43,5 @@ While playing around with these functions, consider the following:
         sayRandomPhrase: sayRandomPhrase
     }
 ```
-    What would change? Why are the instance variables no longer private? How would the 'whoAmI' function change?
+What would change? Why are the instance variables no longer private? How would the 'whoAmI' function change?
 6. Try writing a new instance method of your choosing. Where would you write it? How would you make it available to Person instances? 
