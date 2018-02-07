@@ -7,7 +7,7 @@ Take a look at the code in `index.js` and discuss the questions below. Each ques
 
 ### Person 'Class'
 
-Inspect 'Person' object in your terminal. Notice that the 'new', 'getCount', and 'all' keys on this object have functions as their values. 
+Inspect the 'Person' object in your terminal. Notice that the 'new', 'getCount', and 'all' keys on this object have functions as their values. 
 
 While playing around with these functions, consider the following:
 
