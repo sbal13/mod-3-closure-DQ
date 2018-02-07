@@ -3,6 +3,7 @@
 Take a look at the code in `index.js` and discuss the questions below. Each question is stand alone and assumes you will be starting with fresh code. 
 
 **Note: To run the code, open `index.html` in your browser and open up your terminal.**
+
 **Note 2: Keep in mind that the use of 'class' and 'instance' is loose here. This language is used only to draw upon your familiarity with Object Oriented programming. Strictly speaking, there are no classes or instances of classes in this code, just functions and objects! Keep this distinction in mind as you discuss with your table mates.**
 
 ### Person 'Class'
