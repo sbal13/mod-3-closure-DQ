@@ -30,6 +30,7 @@ While playing around with these functions, consider the following:
 3. Why are you not able to directly manipulate the 'personName', 'personAge', 'personOccupation', 'personPhrases' variables? How does the use of a closure keep these variables private?
 4. Notice that the 'whoAmI' function uses 'this'. In this context, what is 'this'? Try console logging it. Would it be possible to rewrite only this function without using 'this'?
 5. Imagine foregoing the getter and setter methods and changing the return value of 'newPerson' to the following: 
+```Javascript
     {
         name: personName,
         age: personAge,
@@ -40,5 +41,6 @@ While playing around with these functions, consider the following:
         removePhrase: removePhrase,
         sayRandomPhrase: sayRandomPhrase
     }
+```
     What would change? Why are the instance variables no longer private? How would the 'whoAmI' function change?
 6. Try writing a new instance method of your choosing. Where would you write it? How would you make it available to Person instances? 
